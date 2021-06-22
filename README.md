@@ -3,6 +3,7 @@
 <!-- - 🌱 I’m currently learning ...  -->
 - 📫 How to reach me ...
   - Linkedin : <https://www.linkedin.com/in/vinicius-oliveira-santos-7ba1bb204/>
+  - Email: viniciusolicveira@gmail.com
 
 <!---
 vinicius-ssantos/vinicius-ssantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
