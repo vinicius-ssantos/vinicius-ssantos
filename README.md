@@ -14,8 +14,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://cdn.icon-icons.com/icons2/2415/PNG/48/java_original_wordmark_logo_icon_146459.png"> 
 </td>
 
 <td align="center" width="20%">
