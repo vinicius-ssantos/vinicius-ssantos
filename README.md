@@ -31,8 +31,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>Angular</center></b></span> 
+<img height=65px src="https://angular.io/assets/images/logos/angular/angular.svg"> 
 </td>
 
 <td align="center" width="20%">
