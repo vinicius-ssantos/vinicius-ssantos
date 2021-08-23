@@ -48,13 +48,13 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<span><b><center>xx</center></b></span> 
+
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<span><b><center>xx</center></b></span> 
+
 </td>
 
 
