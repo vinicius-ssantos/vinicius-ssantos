@@ -48,7 +48,8 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>xx</center></b></span> 
+<span><b><center>PHP</center></b></span> 
+  <img height=65px src="https://www.php.net//images/logos/new-php-logo.svg"> 
 
 </td>
 
