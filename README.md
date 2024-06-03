@@ -12,7 +12,7 @@
 ## I code with
 
 <a href="" target="_blank">
-  <img align="left" title="java" alt="Sklis"  src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,angular,aws,css,docker,firebase,gradle,idea,js,kubernetes,maven,mongodb,mysql,nodejs,postgres,py,rabbitmq,react,selenium,ubuntu&theme=light" />
+  <img align="left" title="Skills" alt="Sklis"  src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,androidstudio,angular,aws,css,docker,firebase,gradle,idea,js,kubernetes,maven,mongodb,mysql,nodejs,postgres,py,rabbitmq,react,selenium,ubuntu&theme=light" />
 </a>
 
 
