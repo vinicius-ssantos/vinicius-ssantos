@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-My name is Vinicius and I'm a back-end developer from ![Brazil flag icon](https://cdn-icons-png.flaticon.com/128/197/197386.png) **São Paulo, Brasil**.
+My name is Vinicius and I'm a back-end developer from **Brazil** <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="20" />  **São Paulo, Brasil**.
 
 ## Sobre mim
 - ✨ Criando bugs e programando desde 2019
