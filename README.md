@@ -4,13 +4,13 @@ My name is Vinicius and I'm a back-end developer from ![Brazil flag icon](https:
 
 ## Sobre mim
 - ✨ Criando bugs e programando desde 2019
-- 📚 Atualmente aprendendo **Kotlin** ![Kotlin icon](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png) para desenvolvimento mobile
+ - 📚 Atualmente aprendendo **Kotlin** <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" width="20" /> para desenvolvimento mobile
 - 🎯 Objetivos: ser um ótimo desenvolvedor 💻 e falar inglês 🚀
 - 🎲 Também levanto uns halteres 🏋️ de vez em quando
 
 ## About me
 - ✨ Creating bugs and programming since 2019
-- 📚 I'm currently learning **Kotlin** ![Kotlin icon](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png) for mobile development
+ - 📚 I'm currently learning **Kotlin** <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" width="20" /> for mobile development
 - 🎯 Goals: be a great developer 💻 and speak English 🚀
 - 🎲 And... I lift some dumbbells 🏋️ sometimes
 
