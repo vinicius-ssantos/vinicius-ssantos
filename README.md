@@ -5,7 +5,14 @@ My name is Vinicius and I'm a back-end developer from ![Brazil flag icon](https:
 ## Sobre mim
 - ✨ Criando bugs e programando desde 2019
 
- - 📚 Atualmente aprendendo **Kotlin** <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" width="20" /> para desenvolvimento mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,ts,py,js&perline=5" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,react,angular,docker&perline=5" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,firebase,mysql,postgres,mongodb&perline=6" />
+</p>
 
 - 🎯 Objetivos: ser um ótimo desenvolvedor 💻 e falar inglês 🚀
 - 🎲 Também levanto uns halteres 🏋️ de vez em quando
