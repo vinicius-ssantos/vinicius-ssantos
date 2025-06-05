@@ -23,3 +23,11 @@ My name is Vinicius and I'm a back-end developer from ![Brazil flag icon](https:
 
 ## GitHub Stats
 ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-ssantos&show_icons=true)
+
+## Projetos em Destaque
+- **SpringCloud** – projeto de microserviços em Java/Spring usando Docker.
+- **Recipes-api / Recipes-app** – par completo de back-end (Java) e front-end (TypeScript) para gerenciamento de receitas.
+- **AutenticaoFirebase** – exemplo de app móvel em Kotlin com autenticação via Firebase.
+- **Task-management-api** – API em TypeScript organizada para gestão de tarefas.
+- **minhas-financas-API / minhas-financas-APP** – sistema de finanças pessoais com back-end Java e interface em JavaScript.
+- **React-portfolio** – aplicação em React para exposição de UI.
