@@ -1,37 +1,92 @@
-# Hey 👋 What's up?
+<h1 align="center">Hi, I'm Vinicius Santos 👋</h1>
 
-My name is Vinicius and I'm a back-end developer from **Brazil** <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="20" />  **São Paulo, Brasil**.
+<h3 align="center">
+  Backend Software Engineer | Java · Spring · APIs · Microservices · CI/CD
+</h3>
 
-## Sobre mim
-- ✨ Criando bugs e programando desde 2019
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-oliveira-7ba1bb204/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Santos-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:viniciusoli2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-viniciusoli2020%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
- - 📚 Atualmente aprendendo **Kotlin** <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" width="20" /> para desenvolvimento mobile
-
-- 🎯 Objetivos: ser um ótimo desenvolvedor 💻 e falar inglês 🚀
-- 🎲 Também levanto uns halteres 🏋️ de vez em quando
+---
 
 ## About me
-- ✨ Creating bugs and programming since 2019
 
- - 📚 I'm currently learning **Kotlin** <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png" width="20" /> for mobile development
+I'm a Backend Software Engineer from São Paulo, Brazil 🇧🇷, focused on building reliable APIs, integrations and backend services.
 
-- 🎯 Goals: be a great developer 💻 and speak English 🚀
-- 🎲 And... I lift some dumbbells 🏋️ sometimes
+I work mainly with Java, Spring, REST APIs, SQL, Redis, automated tests, CI/CD and Kubernetes. My experience includes authentication and authorization flows, account protection services, API contract standardization, production support and backend quality practices.
 
-## I code with
-![Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,spring,figma,androidstudio,angular,aws,css,docker,firebase,gradle,idea,js,kubernetes,maven,mongodb,mysql,postgres,py,rabbitmq,react,selenium,ubuntu&theme=light)
+I also have previous experience with system development, QA automation, API testing and performance testing.
+
+---
+
+## Main stack
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=java,spring,nodejs,kotlin,ts,nestjs,maven,gradle&theme=light)
+
+### Databases and messaging
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq,firebase&theme=light)
+
+### DevOps and tools
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,git,github,linux&theme=light)
+
+### Frontend and mobile
+![Frontend](https://skillicons.dev/icons?i=angular,react,js,html,css,androidstudio&theme=light)
+
+---
+
+## What I usually work with
+
+- REST APIs and backend services
+- Java, Spring Boot and Spring ecosystem
+- Authentication, authorization and account security flows
+- SQL databases, Redis and integrations between services
+- Unit and integration tests with JUnit, Mockito and related tools
+- CI/CD pipelines with Jenkins
+- Kubernetes-based environments
+- Clean contracts between services and stable production releases
+
+---
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [SpringCloud](https://github.com/vinicius-ssantos/SpringCloud) | Microservices architecture study with service discovery, API Gateway, asynchronous messaging and authentication/authorization components. | Java, Spring Boot, Spring Cloud, Eureka, RabbitMQ, Keycloak, Docker |
+| [recipes-api](https://github.com/vinicius-ssantos/recipes-api) | Backend API for a recipe sharing application, with persistence, validation and security features. | Java 17, Spring Boot, Spring Data JPA, Spring Security, JWT, MySQL |
+| [recipes-app](https://github.com/vinicius-ssantos/recipes-app) | Frontend application for the recipe sharing platform. | Angular 17, Angular Material, TypeScript, Tailwind CSS |
+| [task-management-api](https://github.com/vinicius-ssantos/task-management-api) | Task management API with authentication, database mapping and migration support. | NestJS, TypeScript, TypeORM, PostgreSQL, JWT, Jest |
+| [full-stack-springboot-react-openapi-generator](https://github.com/vinicius-ssantos/full-stack-springboot-react-openapi-generator-Public) | Full stack project using contract-first API development and generated clients. | Java 17, Spring Boot, OpenAPI Generator, React, TypeScript, Axios |
+| [Algafood-api](https://github.com/vinicius-ssantos/Algafood-api) | Food delivery API study with persistence, validation, migrations and automated API tests. | Java, Spring Boot, JPA, MySQL, Flyway, REST Assured |
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinicius-ssantos&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-ssantos&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## Currently improving
+
+- Backend architecture and microservices
+- API design and contract standardization
+- Automated tests and delivery quality
+- Kotlin and mobile development
+- English communication
+
+---
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your-email@example.com)
 
-## GitHub Stats
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-ssantos&show_icons=true)
-
-## Projetos em Destaque
-- **SpringCloud** – projeto de microserviços em Java/Spring usando Docker.
-- **Recipes-api / Recipes-app** – par completo de back-end (Java) e front-end (TypeScript) para gerenciamento de receitas.
-- **AutenticaoFirebase** – exemplo de app móvel em Kotlin com autenticação via Firebase.
-- **Task-management-api** – API em TypeScript organizada para gestão de tarefas.
-- **minhas-financas-API / minhas-financas-APP** – sistema de finanças pessoais com back-end Java e interface em JavaScript.
-- **React-portfolio** – aplicação em React para exposição de UI.
+- LinkedIn: [vinicius-oliveira-7ba1bb204](https://www.linkedin.com/in/vinicius-oliveira-7ba1bb204/)
+- Email: [viniciusoli2020@gmail.com](mailto:viniciusoli2020@gmail.com)
