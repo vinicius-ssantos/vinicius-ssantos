@@ -19,6 +19,8 @@
 
 I'm a Backend Software Engineer from São Paulo, Brazil 🇧🇷, focused on building reliable APIs, integrations and backend services.
 
+Também disponível para oportunidades backend no Brasil, com foco em Java, Spring, APIs, integrações e qualidade em produção.
+
 I work mainly with Java, Spring, REST APIs, SQL, Redis, automated tests, CI/CD and Kubernetes. My experience includes authentication and authorization flows, account protection services, API contract standardization, production support and backend quality practices.
 
 I also have previous experience with system development, QA automation, API testing and performance testing.
