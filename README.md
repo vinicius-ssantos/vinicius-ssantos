@@ -6,8 +6,11 @@
 </h3>
 
 <p align="center">
+  <a href="https://vinicius-portfolio-source.vercel.app/pt">
+    <img src="https://img.shields.io/badge/Portfolio-PT--BR-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio PT-BR" />
+  </a>
   <a href="https://vinicius-portfolio-source.vercel.app/en">
-    <img src="https://img.shields.io/badge/Portfolio-Explore%20my%20work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-English-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio English" />
   </a>
   <a href="https://www.linkedin.com/in/vinicius-oliveira-7ba1bb204/">
     <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,6 +19,10 @@
     <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-374151?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" />
   </a>
 </p>
+
+> **Recruiters and engineering leaders:** the portfolio includes case studies, architectural decisions, diagrams, ADRs, testing evidence, observability, security, and direct links to the source repositories.
+>
+> **Start with the [Sentinel Ledger case study](https://vinicius-portfolio-source.vercel.app/en/projects/sentinel-ledger).**
 
 ## About me
 
@@ -38,10 +45,10 @@ At UOL, I work with authentication and account-protection services, API integrat
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
-| **[Sentinel Ledger](https://github.com/vinicius-ssantos/sentinel-ledger)** — **start here** | Simulated payment orchestration with an immutable double-entry ledger, persistent idempotency, explicit provider uncertainty, transactional outbox and auditable reconciliation. | Java 25, Spring Boot 4.1, Spring Modulith, PostgreSQL, RabbitMQ, Testcontainers, OpenTelemetry |
-| **[AccountShield Orchestrator](https://github.com/vinicius-ssantos/accountshield-orchestrator)** | Explainable account-protection decisions with versioned risk policies, simulated step-up challenges, secure recovery, replay and operational evidence. | Java 25, Spring Boot 4.1, Spring Modulith, PostgreSQL, Redis, Micrometer, Prometheus, Grafana |
-| **[FlagForge](https://github.com/vinicius-ssantos/flagforge)** | Architectural foundation for an OpenFeature-native progressive-delivery platform with modular boundaries, immutable revisions and deterministic evaluation as the next milestone. | Java 25, Spring Boot 4.1, Spring Modulith, Spring Data JDBC, PostgreSQL, Testcontainers, ArchUnit |
-| **[personal-platform-infra](https://github.com/vinicius-ssantos/personal-platform-infra)** | Reproducible local and VPS infrastructure for MCP servers and BFFs, with secrets management, observability, scale-to-zero, runbooks and automated operations. | Docker Compose, Kubernetes/k3s, Kustomize, Ansible, SOPS, Cloudflare, KEDA, Loki, Prometheus |
+| **Sentinel Ledger** — **start here**<br />[Case study](https://vinicius-portfolio-source.vercel.app/en/projects/sentinel-ledger) · [Source code](https://github.com/vinicius-ssantos/sentinel-ledger) | Simulated payment orchestration with an immutable double-entry ledger, persistent idempotency, explicit provider uncertainty, transactional outbox and auditable reconciliation. | Java 25, Spring Boot 4.1, Spring Modulith, PostgreSQL, RabbitMQ, Testcontainers, OpenTelemetry |
+| **AccountShield Orchestrator**<br />[Case study](https://vinicius-portfolio-source.vercel.app/en/projects/accountshield-orchestrator) · [Source code](https://github.com/vinicius-ssantos/accountshield-orchestrator) | Explainable account-protection decisions with versioned risk policies, simulated step-up challenges, secure recovery, replay and operational evidence. | Java 25, Spring Boot 4.1, Spring Modulith, PostgreSQL, Redis, Micrometer, Prometheus, Grafana |
+| **FlagForge**<br />[Case study](https://vinicius-portfolio-source.vercel.app/en/projects/flagforge) · [Source code](https://github.com/vinicius-ssantos/flagforge) | Architectural foundation for an OpenFeature-native progressive-delivery platform with modular boundaries, immutable revisions and deterministic evaluation as the next milestone. | Java 25, Spring Boot 4.1, Spring Modulith, Spring Data JDBC, PostgreSQL, Testcontainers, ArchUnit |
+| **Personal Platform Infra**<br />[Case study](https://vinicius-portfolio-source.vercel.app/en/projects/personal-platform-infra) · [Source code](https://github.com/vinicius-ssantos/personal-platform-infra) | Reproducible local and VPS infrastructure for MCP servers and BFFs, with secrets management, observability, scale-to-zero, runbooks and automated operations. | Docker Compose, Kubernetes/k3s, Kustomize, Ansible, SOPS, Cloudflare, KEDA, Loki, Prometheus |
 
 ## Engineering evidence
 
@@ -72,6 +79,7 @@ I'm deepening my work in backend architecture, distributed-system failure modes,
 
 ## Contact
 
-- Portfolio: [vinicius-portfolio-source.vercel.app](https://vinicius-portfolio-source.vercel.app/en)
+- Portfólio PT-BR: [vinicius-portfolio-source.vercel.app/pt](https://vinicius-portfolio-source.vercel.app/pt)
+- Portfolio English: [vinicius-portfolio-source.vercel.app/en](https://vinicius-portfolio-source.vercel.app/en)
 - LinkedIn: [vinicius-oliveira-7ba1bb204](https://www.linkedin.com/in/vinicius-oliveira-7ba1bb204/)
 - Email: [viniciusoli2020@gmail.com](mailto:viniciusoli2020@gmail.com)
